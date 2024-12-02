@@ -2,7 +2,7 @@ import java.util.*;
 public class ArmstrongNumber {
     public static void main(String[] args) {
         int originalNum, digit, cubeSum = 0,num;
-        
+        //Armstrong Numbers : 153 , 1634
         System.out.println("Enter the number:");
         Scanner sc = new Scanner(System. in );
         num = sc.nextInt();
